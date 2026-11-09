@@ -17,7 +17,9 @@ void main() {
     debugPrint('Unhandled error: $error\n$stack');
     return true;
   };
-  final ads = GoogleAdService(const SystemClock());
+  // Store screenshots: `--profile --dart-define=STORE_SHOTS=true` hides ads. Release builds ignore it.
+  const storeShots = bool.fromEnvironment('STORE_SHOTS') && !kReleaseMode;
+  final ads = storeShots ? const NoAdService() : GoogleAdService(const SystemClock());
   runApp(
     ProviderScope(
       overrides: [adServiceProvider.overrideWithValue(ads)],
