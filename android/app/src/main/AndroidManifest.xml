@@ -30,10 +30,10 @@
         </activity>
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
-        <!-- AdMob app id: Google sample id until the LCAT app exists in AdMob; see config/admob.json. -->
+        <!-- AdMob app id (HomiLabs account); see config/admob.json. -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713" />
+            android:value="ca-app-pub-2087846699268567~9430766791" />
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />

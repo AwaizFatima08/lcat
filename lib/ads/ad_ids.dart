@@ -7,9 +7,8 @@ abstract final class AdIds {
   static const _testInterstitial = 'ca-app-pub-3940256099942544/1033173712';
 
   // Real units from the HomiLabs AdMob account (homilabs.smc@gmail.com); see config/admob.json.
-  // Still Google's sample units until the LCAT app is created in AdMob: check-release-ad-ids.sh fails until then.
-  static const _liveBanner = _testBanner;
-  static const _liveInterstitial = _testInterstitial;
+  static const _liveBanner = 'ca-app-pub-2087846699268567/6613031766';
+  static const _liveInterstitial = 'ca-app-pub-2087846699268567/1494447354';
 
   static String get banner => kReleaseMode ? _liveBanner : _testBanner;
   static String get interstitial => kReleaseMode ? _liveInterstitial : _testInterstitial;
