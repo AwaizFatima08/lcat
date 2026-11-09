@@ -74,10 +74,11 @@ class MathText extends StatelessWidget {
         for (final run in splitPowers(data))
           if (run.raised)
             WidgetSpan(
-              alignment: PlaceholderAlignment.top,
-              child: Text(
-                run.text,
-                style: base.copyWith(fontSize: size * 0.72),
+              alignment: PlaceholderAlignment.baseline,
+              baseline: TextBaseline.alphabetic,
+              child: Transform.translate(
+                offset: Offset(0, -size * 0.42),
+                child: Text(run.text, style: base.copyWith(fontSize: size * 0.7)),
               ),
             )
           else
