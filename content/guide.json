@@ -1,0 +1,264 @@
+{
+ "articles": [
+  {
+   "id": "what",
+   "group": "Start here",
+   "title": "What is the LCAT?",
+   "lines": [
+    "The LCAT (LUMS Common Admission Test) is the admission test that the Lahore University of Management Sciences (LUMS) sets for undergraduate applicants. LUMS describes it as a multiple-choice test like the SAT, though its timing and format can differ.",
+    "## Who needs it",
+    "- Business (SDSB), Humanities and Social Sciences (MGSHSS), Education (SOE) and Law (SAHSOL): one admission test is mandatory, and it can be the SAT, the ACT or the LCAT.",
+    "- Science and Engineering (SBASSE): one test from the SAT, the ACT or the LCAT.",
+    "- Law (SAHSOL) applicants also need the HEC Law Admission Test.",
+    "- If you already have a good SAT or ACT score, check whether you still need the LCAT. LUMS sets no minimum SAT or ACT score.",
+    "## Key facts LUMS publishes",
+    "- Paper-based, in designated cities of Pakistan.",
+    "- Four sections: two Verbal and two Math, 40 minutes each, about 3 hours on the day.",
+    "- No calculator in any part of the test.",
+    "- LCAT scores are valid for one academic year, and LUMS does not disclose LCAT scores to applicants.",
+    "Details change from year to year. The LUMS admissions website (admission.lums.edu.pk) and your online application always come first."
+   ]
+  },
+  {
+   "id": "pattern",
+   "group": "Start here",
+   "title": "Test pattern at a glance",
+   "lines": [
+    "## What LUMS publishes",
+    "- 4 sections: Verbal 1, Verbal 2, Math 1, Math 2.",
+    "- 40 minutes for each section; about 3 hours in total with instructions and breaks.",
+    "- Every question has four choices, (A) to (D). You fill in the circle on an answer sheet.",
+    "- No calculator.",
+    "## Verbal content domains",
+    "- Craft and Structure: words in context, the structure and purpose of a text, connections between two texts.",
+    "- Information and Ideas: central ideas, details, evidence (including tables and graphs) and inferences.",
+    "- Standard English Conventions: sentence boundaries, punctuation, agreement, tense and other grammar.",
+    "- Expression of Ideas: transitions and using notes to meet a writing goal.",
+    "- The official sample also has a longer reading passage followed by several questions.",
+    "## Math content domains",
+    "- Algebra: linear equations, inequalities, systems and linear functions.",
+    "- Advanced Math: quadratic, exponential, polynomial, rational, radical and absolute-value equations, nonlinear functions. The sample also includes logarithms and sequences.",
+    "- Problem-Solving and Data Analysis: ratios, rates, percentages, statistics, probability and data.",
+    "- Geometry and Trigonometry: area, volume, angles, triangles, circles and trigonometry.",
+    "## How this app sets its mocks",
+    "LUMS does not publish the number of questions. Each mock here has 25 questions in each Verbal section and 20 in each Math section (90 in all), which gives a realistic pace of about 1.6 minutes per Verbal question and 2 minutes per Math question."
+   ]
+  },
+  {
+   "id": "dates",
+   "group": "Start here",
+   "title": "Fall 2027 dates and fees",
+   "lines": [
+    "As published by LUMS in October 2026 for Fall 2027 admission. Check the LUMS website for changes.",
+    "- Online application opens: October 2026.",
+    "- Application deadline: 27 January 2027, 5:00 pm PKT.",
+    "- LCAT: 21 March 2027 (tentative). LUMS says the LCAT is held only once for Fall 2027 admissions.",
+    "- Last date to change your test city: 15 March 2027 (tell the Admissions Office).",
+    "- Test card: printable from your online application two weeks before the test. It is not posted.",
+    "- Fees: application processing PKR 12,500; LCAT registration PKR 7,500 (if applicable).",
+    "- Admission decisions: April to July 2027. Classes start September 2027."
+   ]
+  },
+  {
+   "id": "eligibility",
+   "group": "Start here",
+   "title": "Eligibility in brief",
+   "lines": [
+    "Minimum academic records LUMS lists for Fall 2027 (BS programmes; some programmes differ, so check yours):",
+    "- Matric or equivalent: 75% or above, and FSc, ICS or I.Com: 75% or above (FA: 70% for some humanities programmes).",
+    "- O-Level: average grade of at least B, including Mathematics.",
+    "- A-Level: an average of three Bs across your best three subjects.",
+    "- IB Diploma: 29 out of 45.",
+    "## How LUMS decides",
+    "LUMS looks at your academic record, your admission test, your online application and supporting documents, and an interview if you are called. It does not publish fixed weights, so a strong test score helps but does not decide everything."
+   ]
+  },
+  {
+   "id": "rules",
+   "group": "Rules",
+   "title": "Test-day rules",
+   "lines": [
+    "## Bring both of these, or you will not be allowed to sit the test",
+    "- A printed and signed copy of your Test Registration Slip.",
+    "- An original photo ID: CNIC, government-issued juvenile card, or passport. LUMS accepts no other ID.",
+    "## In the hall",
+    "- No calculators in any section.",
+    "- Mark every answer on the answer sheet by filling in the circle completely. Work out on the rough space given.",
+    "- Each section is timed separately. Expect to work only on the section the invigilator announces.",
+    "- Leave phones, smart watches and bags where you are told. Follow every instruction from the invigilators.",
+    "## Before the day",
+    "- Print your test card from the online application two weeks before the test and check your name, photo and centre.",
+    "- Visit or map the centre the day before and plan to arrive early.",
+    "- Pack pencils, an eraser, a sharpener and a simple watch without alarms if allowed."
+   ]
+  },
+  {
+   "id": "marking",
+   "group": "Rules",
+   "title": "Marking and scores",
+   "lines": [
+    "- LUMS does not publish its marking scheme or a score scale.",
+    "- Past candidates report no negative marking, so never leave a circle empty: eliminate what you can and guess.",
+    "- LUMS does not tell applicants their LCAT score. You will only see your admission decision.",
+    "- LCAT scores are valid for one academic year.",
+    "- If you also report SAT or ACT scores, LUMS considers your best single attempt.",
+    "## Scores in this app",
+    "Mocks here show your percentage, each section, Verbal and Math totals and your weakest topics. Wrong answers are not penalised. These are practice scores only."
+   ]
+  },
+  {
+   "id": "app-rules",
+   "group": "Rules",
+   "title": "How the mocks in this app work",
+   "lines": [
+    "- 20 full mocks, each with Verbal 1, Verbal 2, Math 1 and Math 2.",
+    "- Each section has its own 40-minute clock. When it reaches zero, the next section starts automatically.",
+    "- Inside a section you can move freely, flag questions and change answers. Once you finish a section you cannot go back, as on the paper test.",
+    "- The clock pauses if you leave the app, and your answers are saved.",
+    "- No test question appears in two mocks, and practice questions never appear in a mock.",
+    "- After you submit, review every question with its explanation and filter to see only wrong or skipped ones."
+   ]
+  },
+  {
+   "id": "verbal-tips",
+   "group": "Section guides",
+   "title": "Verbal: strategy by question type",
+   "lines": [
+    "## Words in context",
+    "Cover the choices, predict a word from the clues in the sentence, then pick the closest choice. Watch for contrast words (although, however) that flip the meaning.",
+    "## Structure, purpose and main idea",
+    "Ask what the author is doing (explaining, arguing, comparing, describing a study). The right choice covers the whole text, not one detail.",
+    "## Cross-text questions",
+    "Find each author's main claim first. Then ask how the second author would react to the first author's specific point.",
+    "## Evidence and data",
+    "The right choice must match the claim exactly. For tables, check the exact row, column and units, and reject choices that are true but irrelevant.",
+    "## Inferences",
+    "Choose what must be true from the text, not what might be true. Extreme words (always, never, proves) are often wrong.",
+    "## Grammar and punctuation",
+    "Find the subject and verb first. Then check how the clauses join: a full sentence on each side needs a full stop, a semicolon or a comma with and, but or so.",
+    "## Transitions",
+    "Name the relationship between the two sentences (contrast, cause, example, addition, sequence) before looking at the choices.",
+    "## Notes questions",
+    "Read the goal in the question first. The right choice achieves that goal; other choices may be accurate but answer a different goal.",
+    "## Long passages",
+    "Read the questions' first lines, then read the passage once for its main idea and structure. Go back to the text for every answer."
+   ]
+  },
+  {
+   "id": "grammar",
+   "group": "Section guides",
+   "title": "Grammar rules to know",
+   "lines": [
+    "- A comma cannot join two complete sentences on its own. Use a full stop, a semicolon, or a comma with and, but, or, so, yet.",
+    "- A colon follows a complete sentence and introduces a list, an explanation or an example.",
+    "- A pair of commas or dashes marks extra information; never mix one comma with one dash.",
+    "- Do not put a comma between a subject and its verb, or between a verb and its object.",
+    "- Its is possessive; it's means it is. The same pattern holds for their / they're and whose / who's.",
+    "- A singular subject takes a singular verb, even when a long phrase comes between them: The list of names is long.",
+    "- Each, every, either, neither and everyone are singular.",
+    "- A pronoun must agree with the noun it replaces: The company raised its prices.",
+    "- A modifier at the start of a sentence must describe the subject that comes right after the comma.",
+    "- Items in a list or comparison must have the same form: reading, writing and speaking.",
+    "- Keep tenses consistent unless the time actually changes."
+   ]
+  },
+  {
+   "id": "math-tips",
+   "group": "Section guides",
+   "title": "Math: strategy without a calculator",
+   "lines": [
+    "- Spend about 2 minutes per question. Skip and come back rather than getting stuck.",
+    "- Simplify before you multiply: cancel factors, use fractions instead of decimals, and estimate to check the size of your answer.",
+    "- Plug the choices back in, or try easy numbers such as x = 1 or x = 2, when algebra looks long.",
+    "- Write each step on rough paper; most errors are sign slips or copying mistakes.",
+    "- Read the last line again before choosing: the question may ask for 2x, the perimeter, or the number of thousands.",
+    "- Learn the formulas: do not count on a formula sheet being given."
+   ]
+  },
+  {
+   "id": "formulas",
+   "group": "Section guides",
+   "title": "Formulas to memorise",
+   "lines": [
+    "## Algebra",
+    "- Slope m = (y₂ − y₁) ÷ (x₂ − x₁); line y = mx + c. Parallel lines have equal slopes; perpendicular slopes multiply to −1.",
+    "- Quadratic formula x = (−b ± √(b² − 4ac)) ÷ 2a. Sum of roots −b/a, product c/a. Discriminant b² − 4ac.",
+    "- (a + b)² = a² + 2ab + b²; a² − b² = (a − b)(a + b).",
+    "## Exponents and logs",
+    "- aᵐ × aⁿ = aᵐ⁺ⁿ; (aᵐ)ⁿ = aᵐⁿ; a⁻ⁿ = 1/aⁿ; a^(1/n) = ⁿ√a.",
+    "- log(xy) = log x + log y; log(x/y) = log x − log y; log xⁿ = n log x; logₐ a = 1.",
+    "- Growth: P(1 + r)ᵗ; decay: P(1 − r)ᵗ.",
+    "## Sequences",
+    "- Arithmetic: aₙ = a₁ + (n − 1)d; Sₙ = n/2 × (a₁ + aₙ).",
+    "- Geometric: aₙ = a₁rⁿ⁻¹; Sₙ = a₁(1 − rⁿ) ÷ (1 − r).",
+    "## Geometry",
+    "- Triangle area ½bh; trapezium area ½(a + b)h; circle area πr², circumference 2πr.",
+    "- Arc length rθ and sector area ½r²θ (θ in radians); 180° = π radians.",
+    "- Cylinder volume πr²h; cone ⅓πr²h; sphere ⁴⁄₃πr³; sphere surface 4πr².",
+    "- Pythagoras a² + b² = c². Special triangles: 30-60-90 sides 1 : √3 : 2; 45-45-90 sides 1 : 1 : √2.",
+    "- Circle centred at (h, k): (x − h)² + (y − k)² = r².",
+    "## Trigonometry",
+    "- sin θ = opposite/hypotenuse, cos θ = adjacent/hypotenuse, tan θ = opposite/adjacent.",
+    "- sin²θ + cos²θ = 1; sin θ = cos(90° − θ).",
+    "- Signs: all positive in quadrant I, sine in II, tangent in III, cosine in IV.",
+    "## Data",
+    "- Mean = total ÷ count; median = middle value of the ordered list; percentage change = change ÷ original × 100."
+   ]
+  },
+  {
+   "id": "timing",
+   "group": "Strategy",
+   "title": "Time management",
+   "lines": [
+    "- Verbal: about 1½ minutes a question. Short questions first; give a long passage about 6 minutes for its set.",
+    "- Math: about 2 minutes a question. Do a first pass for the ones you can solve quickly, then return.",
+    "- Flag anything that takes over 3 minutes and move on. One hard question is worth the same as an easy one.",
+    "- Leave the last 2 minutes of each section to fill every blank circle with your best guess.",
+    "- Practise full mocks in one sitting at the same time of day as the real test, to build stamina for 3 hours."
+   ]
+  },
+  {
+   "id": "plan8",
+   "group": "Strategy",
+   "title": "An 8-week study plan",
+   "lines": [
+    "- Weeks 1-2: take Mock 1 to find your level. Revise algebra and linear functions; practise words in context, grammar and punctuation daily.",
+    "- Weeks 3-4: Advanced Math (quadratics, exponents, logs, functions) and reading: central ideas, inference, evidence. One mock each week.",
+    "- Weeks 5-6: data, statistics, probability, geometry and trigonometry; transitions, notes and cross-text questions. Two mocks a week, reviewed in full.",
+    "- Weeks 7-8: three mocks a week under strict timing. Spend as long reviewing each mock as taking it, and practise your weakest topics from the Progress tab.",
+    "- Every day: read 20 minutes of quality English (editorials, popular science, long-form journalism) and note new words in context.",
+    "- Last 2 days: rest, review formulas and grammar rules, prepare your documents and route."
+   ]
+  },
+  {
+   "id": "plan4",
+   "group": "Strategy",
+   "title": "A 4-week crash plan",
+   "lines": [
+    "- Week 1: one mock, then daily topic practice on your three weakest topics in each section.",
+    "- Week 2: grammar rules and formulas until you know them cold; two mocks.",
+    "- Week 3: three mocks under timing, each reviewed the same day.",
+    "- Week 4: two mocks early in the week, then light practice and rest."
+   ]
+  },
+  {
+   "id": "using",
+   "group": "Strategy",
+   "title": "Getting the most from this app",
+   "lines": [
+    "- Practice tab: the question bank sorted by section, content domain and topic, with instant explanations.",
+    "- Mocks tab: 20 full exams with section timers. Treat each one like the real day.",
+    "- Review every answer, including the ones you got right by guessing.",
+    "- Progress tab: your scores across mocks and your weakest topics. Practise those next."
+   ]
+  },
+  {
+   "id": "disclaimer",
+   "group": "About this app",
+   "title": "About these questions",
+   "lines": [
+    "Every question and passage in this app is original HomiLabs practice material written to match the topics LUMS publishes. None is taken from real LCAT papers or LUMS material. Prep Simulator for LCAT is independent and is not affiliated with, endorsed by or connected to LUMS. Always follow the latest instructions from LUMS."
+   ]
+  }
+ ]
+}

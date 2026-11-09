@@ -1,0 +1,307 @@
+{
+ "sections": [
+  {
+   "key": "verbal",
+   "title": "Verbal",
+   "topics": [
+    {
+     "key": "words-in-context",
+     "prefix": "wc",
+     "title": "Words in Context",
+     "domain": "Craft and Structure",
+     "quota": 3,
+     "test": 120,
+     "practice": 40,
+     "scope": "A sentence or short text (1-3 sentences) with a blank or an underlined-style quoted word; choose the most logical and precise word or phrase. High-utility academic words, not obscure ones."
+    },
+    {
+     "key": "text-structure",
+     "prefix": "ts",
+     "title": "Text Structure and Purpose",
+     "domain": "Craft and Structure",
+     "quota": 2,
+     "test": 80,
+     "practice": 25,
+     "scope": "A short text of 60-130 words; ask for its main purpose, overall structure, or the function of one quoted sentence."
+    },
+    {
+     "key": "cross-text",
+     "prefix": "ct",
+     "title": "Cross-Text Connections",
+     "domain": "Craft and Structure",
+     "quota": 1,
+     "test": 40,
+     "practice": 15,
+     "scope": "Text 1 and Text 2 (each 50-90 words) on one topic; how would the author of Text 2 respond to a claim in Text 1, or how do they relate."
+    },
+    {
+     "key": "central-ideas",
+     "prefix": "ci",
+     "title": "Central Ideas and Details",
+     "domain": "Information and Ideas",
+     "quota": 1,
+     "test": 40,
+     "practice": 20,
+     "scope": "A short text of 60-130 words; main idea or a supported detail."
+    },
+    {
+     "key": "evidence",
+     "prefix": "ev",
+     "title": "Command of Evidence",
+     "domain": "Information and Ideas",
+     "quota": 3,
+     "test": 120,
+     "practice": 30,
+     "scope": "Which finding/quotation would best support or weaken a stated claim. About a third quantitative: use the `table` field (or describe a small data set in words) and ask which choice accurately uses the data to complete the text."
+    },
+    {
+     "key": "inference",
+     "prefix": "in",
+     "title": "Inferences",
+     "domain": "Information and Ideas",
+     "quota": 2,
+     "test": 80,
+     "practice": 25,
+     "scope": "A short text ending in a blank; choose the choice that most logically completes the text."
+    },
+    {
+     "key": "boundaries",
+     "prefix": "bd",
+     "title": "Boundaries (Punctuation)",
+     "domain": "Standard English Conventions",
+     "quota": 3,
+     "test": 120,
+     "practice": 30,
+     "scope": "Choose the punctuation that completes the text: commas, semicolons, colons, dashes, apostrophes, run-ons and fragments, restrictive vs non-restrictive clauses."
+    },
+    {
+     "key": "form-structure-sense",
+     "prefix": "fs",
+     "title": "Form, Structure and Sense",
+     "domain": "Standard English Conventions",
+     "quota": 3,
+     "test": 120,
+     "practice": 30,
+     "scope": "Subject-verb agreement, pronoun-antecedent agreement and case, verb tense and form, plurals and possessives, dangling and misplaced modifiers, parallelism."
+    },
+    {
+     "key": "transitions",
+     "prefix": "tr",
+     "title": "Transitions",
+     "domain": "Expression of Ideas",
+     "quota": 2,
+     "test": 80,
+     "practice": 25,
+     "scope": "Choose the most logical transition word or phrase; logical relationships: contrast, cause, addition, example, sequence, concession."
+    },
+    {
+     "key": "rhetorical-synthesis",
+     "prefix": "rs",
+     "title": "Rhetorical Synthesis",
+     "domain": "Expression of Ideas",
+     "quota": 1,
+     "test": 40,
+     "practice": 15,
+     "scope": "A student's bulleted notes (4-6 bullets) and a goal; which choice most effectively uses relevant information to accomplish the goal."
+    },
+    {
+     "key": "comprehension",
+     "prefix": "rc",
+     "title": "Reading Comprehension Passages",
+     "domain": "Information and Ideas",
+     "quota": 4,
+     "test": 160,
+     "practice": 24,
+     "scope": "Sets: one original passage of 280-400 words (science, history, social science, arts, Pakistani or world settings) with 4 questions: main idea or summary, detail, inference, author's purpose or tone or vocabulary in context."
+    }
+   ]
+  },
+  {
+   "key": "math",
+   "title": "Math",
+   "topics": [
+    {
+     "key": "linear-equations",
+     "prefix": "le",
+     "title": "Linear Equations in One Variable",
+     "domain": "Algebra",
+     "quota": 2,
+     "test": 80,
+     "practice": 25,
+     "scope": "Solving linear equations, including fractions and word problems; equations with no or infinitely many solutions."
+    },
+    {
+     "key": "linear-systems",
+     "prefix": "sy",
+     "title": "Systems of Linear Equations",
+     "domain": "Algebra",
+     "quota": 2,
+     "test": 80,
+     "practice": 25,
+     "scope": "Two equations in two unknowns, substitution and elimination, word problems, no-solution and infinite-solution conditions."
+    },
+    {
+     "key": "linear-functions",
+     "prefix": "lf",
+     "title": "Linear Functions and Graphs",
+     "domain": "Algebra",
+     "quota": 2,
+     "test": 80,
+     "practice": 25,
+     "scope": "Slope, intercepts, equations of lines from points, parallel and perpendicular lines, interpreting slope and intercept in context."
+    },
+    {
+     "key": "inequalities",
+     "prefix": "iq",
+     "title": "Linear Inequalities",
+     "domain": "Algebra",
+     "quota": 1,
+     "test": 40,
+     "practice": 25,
+     "scope": "Solving and interpreting linear inequalities and systems of inequalities in context; absolute-value inequalities."
+    },
+    {
+     "key": "quadratics",
+     "prefix": "qd",
+     "title": "Quadratic Equations and Functions",
+     "domain": "Advanced Math",
+     "quota": 2,
+     "test": 80,
+     "practice": 25,
+     "scope": "Factoring, the quadratic formula, sum and product of roots, discriminant, vertex form, maximum and minimum, modelling."
+    },
+    {
+     "key": "exponents",
+     "prefix": "ex",
+     "title": "Exponents, Radicals and Exponential Functions",
+     "domain": "Advanced Math",
+     "quota": 2,
+     "test": 80,
+     "practice": 25,
+     "scope": "Laws of exponents, fractional exponents, radicals, exponential growth and decay, percentage growth models."
+    },
+    {
+     "key": "polynomials-rational",
+     "prefix": "pr",
+     "title": "Polynomials and Rational Expressions",
+     "domain": "Advanced Math",
+     "quota": 1,
+     "test": 40,
+     "practice": 25,
+     "scope": "Expanding and factoring polynomials, remainder and factor theorem, simplifying rational expressions, rational and radical equations, absolute-value equations."
+    },
+    {
+     "key": "functions",
+     "prefix": "fn",
+     "title": "Functions",
+     "domain": "Advanced Math",
+     "quota": 1,
+     "test": 40,
+     "practice": 25,
+     "scope": "Function notation, evaluating, composition, inverse, transformations, domain and range, functions given by a table."
+    },
+    {
+     "key": "logs-sequences",
+     "prefix": "lg",
+     "title": "Logarithms and Sequences",
+     "domain": "Advanced Math",
+     "quota": 1,
+     "test": 40,
+     "practice": 25,
+     "scope": "Logarithm laws and equations (no calculator), arithmetic and geometric sequences and series."
+    },
+    {
+     "key": "ratios-percentages",
+     "prefix": "rp",
+     "title": "Ratios, Rates and Percentages",
+     "domain": "Problem-Solving and Data Analysis",
+     "quota": 1,
+     "test": 40,
+     "practice": 25,
+     "scope": "Ratios, proportions, unit rates, unit conversion, percentage change, successive discounts, mixtures, speed."
+    },
+    {
+     "key": "statistics",
+     "prefix": "st",
+     "title": "Statistics",
+     "domain": "Problem-Solving and Data Analysis",
+     "quota": 1,
+     "test": 40,
+     "practice": 25,
+     "scope": "Mean, median, mode, range, effect of changing data, weighted averages, standard deviation (conceptual), sampling and inference from samples."
+    },
+    {
+     "key": "probability-data",
+     "prefix": "pd",
+     "title": "Probability and Data Interpretation",
+     "domain": "Problem-Solving and Data Analysis",
+     "quota": 1,
+     "test": 40,
+     "practice": 25,
+     "scope": "Simple and conditional probability, two-way tables (use `table`), reading tables of data, counting."
+    },
+    {
+     "key": "area-volume",
+     "prefix": "av",
+     "title": "Area and Volume",
+     "domain": "Geometry and Trigonometry",
+     "quota": 1,
+     "test": 40,
+     "practice": 25,
+     "scope": "Areas and perimeters of polygons, surface area and volume of prisms, cylinders, cones, spheres; scale factors."
+    },
+    {
+     "key": "triangles-trig",
+     "prefix": "tt",
+     "title": "Lines, Angles, Triangles and Trigonometry",
+     "domain": "Geometry and Trigonometry",
+     "quota": 1,
+     "test": 40,
+     "practice": 25,
+     "scope": "Angle facts, similar and congruent triangles, Pythagoras, special right triangles, sine, cosine and tangent, radians, trig identities and signs by quadrant."
+    },
+    {
+     "key": "circles",
+     "prefix": "cc",
+     "title": "Circles",
+     "domain": "Geometry and Trigonometry",
+     "quota": 1,
+     "test": 40,
+     "practice": 25,
+     "scope": "Arc length, sector area, radians, inscribed and central angles, tangents, the equation of a circle (completing the square)."
+    }
+   ]
+  }
+ ],
+ "pattern": [
+  {
+   "key": "verbal-1",
+   "title": "Verbal Section 1",
+   "section": "verbal",
+   "minutes": 40,
+   "questions": 25
+  },
+  {
+   "key": "verbal-2",
+   "title": "Verbal Section 2",
+   "section": "verbal",
+   "minutes": 40,
+   "questions": 25
+  },
+  {
+   "key": "math-1",
+   "title": "Math Section 1",
+   "section": "math",
+   "minutes": 40,
+   "questions": 20
+  },
+  {
+   "key": "math-2",
+   "title": "Math Section 2",
+   "section": "math",
+   "minutes": 40,
+   "questions": 20
+  }
+ ],
+ "papers": 20
+}
