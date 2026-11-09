@@ -60,6 +60,12 @@ PRIVATE AND OFFLINE
 Prep Simulator for LCAT is independent practice material by HomiLabs. It is not affiliated with, endorsed by or connected to the Lahore University of Management Sciences (LUMS). All questions are original practice material, not real LCAT papers, and scores are for practice only. Always follow the latest LUMS admission instructions.
 ```
 
+## Play submission (9 Nov 2026)
+- Play Console app id 4972305870071878272 (HomiLabs organisation account). Production release 1 (1.0.0), full rollout, 177 countries + rest of world.
+- Listing: Education; contact homilabs.smc@gmail.com, https://lcat.homilabs.org; 7 phone screenshots from `store-assets/screenshots/phone/`; no tablet screenshots yet.
+- Declarations: ads yes, no sign-in, target audience 18+, AI asset label not used. Data safety: approximate location, crash logs, diagnostics, app interactions, device IDs; collected and shared (AdMob) for analytics, advertising, fraud prevention; required; encrypted in transit; no accounts.
+- Sent for review 9 Nov 2026. After approval: AdMob Add store, EEA consent message, Play link on the website.
+
 ## AdMob
 - Account homilabs.smc@gmail.com. App "Prep Simulator for LCAT", ID `ca-app-pub-2087846699268567~9430766791` (created 9 Nov 2026); units in `config/admob.json`. Debug builds use Google test units.
 - "Limited ad serving" until the Play listing is live: after publishing, AdMob → Apps → this app → Add store (com.homilabs.lcat_prep).
