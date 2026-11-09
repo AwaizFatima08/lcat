@@ -5,6 +5,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'package:lcat_prep/ads/ad_service.dart';
 import 'package:lcat_prep/app.dart';
+import 'package:lcat_prep/content/content_repository.dart';
 import 'package:lcat_prep/features/practice/practice_notifier.dart';
 import 'package:lcat_prep/ui/async_value_view.dart';
 import 'package:lcat_prep/ui/question_view.dart';
@@ -22,7 +23,12 @@ class PracticeScreen extends ConsumerWidget {
     return AsyncValueView(
       value: ref.watch(practiceProvider(key)),
       data: (practice) => Scaffold(
-        appBar: AppBar(title: Text(context.l10n.tabPractice)),
+        appBar: AppBar(
+          title: Text(
+            ref.watch(catalogProvider).value?.topicTitle(section, topic) ??
+                context.l10n.tabPractice,
+          ),
+        ),
         body: switch (practice) {
           PracticeState(questions: []) => Center(child: Text(context.l10n.practiceEmpty)),
           PracticeState(finished: true) => _Summary(practice: practice, practiceKey: key),

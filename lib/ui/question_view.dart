@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:lcat_prep/app.dart';
 import 'package:lcat_prep/content/models.dart';
+import 'package:lcat_prep/ui/math_text.dart';
 import 'package:lcat_prep/ui/theme.dart';
 
 /// Shared passage or scenario, collapsible so the question stays in view.
@@ -28,7 +29,7 @@ class _SetPanelState extends State<SetPanel> {
             Text(widget.set.title, style: Theme.of(context).textTheme.titleSmall),
           if (_open) ...[
             const SizedBox(height: AppSpacing.sm),
-            SelectableText(widget.set.text, style: const TextStyle(height: 1.45)),
+            MathText(widget.set.text, style: const TextStyle(height: 1.45), selectable: true),
           ],
           Align(
             alignment: AlignmentDirectional.centerEnd,
@@ -58,7 +59,7 @@ class QuestionTable extends StatelessWidget {
       columns: [for (final cell in rows.first) DataColumn(label: Text(cell))],
       rows: [
         for (final row in rows.skip(1))
-          DataRow(cells: [for (final cell in row) DataCell(Text(cell))]),
+          DataRow(cells: [for (final cell in row) DataCell(MathText(cell))]),
       ],
     ),
   );
@@ -84,7 +85,7 @@ class QuestionHeader extends StatelessWidget {
           SetPanel(key: ValueKey(question.setId), set: panel, startOpen: passageOpen),
         if (table != null) QuestionTable(rows: table),
         const SizedBox(height: AppSpacing.sm),
-        Text(question.stem, style: Theme.of(context).textTheme.titleMedium),
+        MathText(question.stem, style: Theme.of(context).textTheme.titleMedium),
         const SizedBox(height: AppSpacing.md),
       ],
     );
@@ -144,7 +145,7 @@ class OptionBubble extends StatelessWidget {
                   child: Text(letter),
                 ),
                 const SizedBox(width: AppSpacing.sm),
-                Expanded(child: Text(text)),
+                Expanded(child: MathText(text)),
               ],
             ),
           ),
@@ -174,7 +175,7 @@ class ExplanationBox extends StatelessWidget {
         children: [
           Text(context.l10n.explanation, style: Theme.of(context).textTheme.labelLarge),
           const SizedBox(height: AppSpacing.xs),
-          Text(text, style: TextStyle(color: scheme.onSecondaryContainer, height: 1.4)),
+          MathText(text, style: TextStyle(color: scheme.onSecondaryContainer, height: 1.4)),
         ],
       ),
     );
