@@ -5,7 +5,8 @@
 - Debug: `jobq run --name lcat-debug-apk -- flutter build apk --debug`.
 - Release: `jobq run --name lcat-release-aab -- flutter build appbundle --release`, then `./gradlew --stop` in `android/`.
 - Before every release: `bash scripts/check-release-ad-ids.sh`, `python3 tool/validate.py`, `flutter test`.
-- Signing: not set up yet. Create an upload keystore in `.secrets/` (gitignored) and `android/key.properties`, as in the NTS app. Without it, release builds are unsigned.
+- Signing (set up 9 Nov 2026): upload keystore `.secrets/lcat-upload.keystore`, alias `lcat-upload`, RSA 2048, valid 10,000 days. Passwords in `.secrets/lcat-upload-keystore-credentials.txt`; `android/key.properties` points at it. Both are gitignored and only in the local backup — keep a second copy off this machine. Upload certificate SHA-256 `AB:F7:4B:EA:A7:7D:E5:64:A7:A7:C9:A2:34:27:B8:4C:E6:AD:A7:A6:96:2A:40:8A:7B:82:36:45:C5:07:55:D5`. Use Play App Signing; this is the upload key only.
+- First bundle: 1.0.0 (code 1), 48.8 MB, built 9 Nov 2026. Raise `version:` in pubspec.yaml before each new upload.
 
 ## Website: https://lcat.homilabs.org
 - PHP/HTML website in hPanel (created 9 Nov 2026), deployed by Hostinger Git from the `deploy` branch into `public_html`.
