@@ -68,7 +68,7 @@ Prep Simulator for LCAT is independent practice material by HomiLabs. It is not 
 
 ## AdMob
 - Account homilabs.smc@gmail.com. App "Prep Simulator for LCAT", ID `ca-app-pub-2087846699268567~9430766791` (created 9 Nov 2026); units in `config/admob.json`. Debug builds use Google test units.
-- "Limited ad serving" until the Play listing is live: after publishing, AdMob → Apps → this app → Add store (com.homilabs.lcat_prep).
+- Play store linked to the AdMob app 10 Nov 2026 (searched by the full listing URL). app-ads.txt verification first said "details don't match" although lcat.homilabs.org/app-ads.txt and homilabs.org/app-ads.txt both serve the exact line AdMob asks for; GRE had the same on launch day and verified on its own the next day. Re-check in AdMob → Apps → this app → App settings; limited ad serving lifts after verification and AdMob's app review.
 - `app-ads.txt` is live at https://lcat.homilabs.org/app-ads.txt.
 - Consent: create and publish a European regulations message for this app (Privacy & messaging) before serving EEA/UK users.
 
