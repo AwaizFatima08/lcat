@@ -12,7 +12,7 @@
 - PHP/HTML website in hPanel (created 9 Nov 2026), deployed by Hostinger Git from the `deploy` branch into `public_html`.
 - Change `website/`, commit, then `bash scripts/publish-site.sh`, then press Deploy in hPanel → Advanced → GIT if auto-deploy has not picked it up. Flush the CDN cache if pages look stale.
 - Pages: landing, `/privacy.html`, `/terms.html`, `/app-ads.txt`.
-- Play link on the landing page since approval (10 Nov 2026): https://play.google.com/store/apps/details?id=com.homilabs.lcat_prep. Still to do: add the app to homilabs.org.
+- Play link on the landing page since approval (10 Nov 2026): https://play.google.com/store/apps/details?id=com.homilabs.lcat_prep. Not listed on homilabs.org: it does not list apps at the moment (Homi, 10 Nov 2026).
 
 ## Play Console
 | Item | Value |
