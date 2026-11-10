@@ -12,7 +12,7 @@
 - PHP/HTML website in hPanel (created 9 Nov 2026), deployed by Hostinger Git from the `deploy` branch into `public_html`.
 - Change `website/`, commit, then `bash scripts/publish-site.sh`, then press Deploy in hPanel → Advanced → GIT if auto-deploy has not picked it up. Flush the CDN cache if pages look stale.
 - Pages: landing, `/privacy.html`, `/terms.html`, `/app-ads.txt`.
-- After Play launch: replace "Coming soon on Google Play" with the Play link, and add the app to homilabs.org.
+- Play link on the landing page since approval (10 Nov 2026): https://play.google.com/store/apps/details?id=com.homilabs.lcat_prep. Still to do: add the app to homilabs.org.
 
 ## Play Console
 | Item | Value |
@@ -64,7 +64,7 @@ Prep Simulator for LCAT is independent practice material by HomiLabs. It is not 
 - Play Console app id 4972305870071878272 (HomiLabs organisation account). Production release 1 (1.0.0), full rollout, 177 countries + rest of world.
 - Listing: Education; contact homilabs.smc@gmail.com, https://lcat.homilabs.org; 7 phone screenshots from `store-assets/screenshots/phone/`; no tablet screenshots yet.
 - Declarations: ads yes, no sign-in, target audience 18+, AI asset label not used. Data safety: approximate location, crash logs, diagnostics, app interactions, device IDs; collected and shared (AdMob) for analytics, advertising, fraud prevention; required; encrypted in transit; no accounts.
-- Sent for review 9 Nov 2026. After approval: AdMob Add store, EEA consent message, Play link on the website.
+- Sent for review 9 Nov 2026, approved and live 10 Nov 2026: https://play.google.com/store/apps/details?id=com.homilabs.lcat_prep. Play link on the website since 10 Nov 2026.
 
 ## AdMob
 - Account homilabs.smc@gmail.com. App "Prep Simulator for LCAT", ID `ca-app-pub-2087846699268567~9430766791` (created 9 Nov 2026); units in `config/admob.json`. Debug builds use Google test units.
